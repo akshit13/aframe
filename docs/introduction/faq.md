@@ -33,9 +33,9 @@ a vehicle in which to make WebVR successful.
 
 ## How can I get started?
 
-[intro]: ../introduction/index.md
-[gettingstarted]: ../introduction/getting-started.md
-[guides]: ../guides/index.md
+[intro]: ../introduction/
+[gettingstarted]: ../introduction/
+[guides]: ../guides/
 
 Read the [Introduction][intro] to get a deeper feel of what A-Frame is.
 
